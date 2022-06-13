@@ -1,10 +1,14 @@
 .second-subtext{
     font-family: 'Open Sans', sans-serif;
+    line-height: 2.2;
 }
 .second-heading{
     font-family: 'Playfair Display', serif;
 }
 
 @media (max-width: 1023px) {
-    
+    .second-image{
+        content:url(https://images.unsplash.com/photo-1618863099278-75222d755814?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    }
+
 }

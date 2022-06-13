@@ -13,16 +13,18 @@ function Sporty() {
                 SPORTY COCKPIT. EXCLUSIVE INTERIOR.
               </h2>
               <span class="inline-block h-1 w-20 rounded bg-red-600 mb-4"></span>
-              <h1 class="text-gray-900 text-5xl title-font font-medium mb-4 sporty-heading">
+              <h1 class="text-gray-900 text-5xl title-font font-medium mb-10 sporty-heading">
                 Interior.
               </h1>
 
-              <p class="leading-relaxed mb-4 sporty-subtext">
-                Fam locavore kickstarter distillery. Mixtape chillwave tumeric
-                sriracha taximy chia microdosing tilde DIY. XOXO fam inxigo
-                juiceramps cornhole raw denim forage brooklyn. Everyday carry +1
-                seitan poutine tumeric. Gastropub blue bottle austin listicle
-                pour-over, neutra jean.
+              <p class="leading-relaxed mb-4 sporty-subtext text-sm">
+                The cockpit impresses with its high-tech interior: a user
+                interface concept with fully digital instruments and a 10.2-inch
+                display. At the center is the new center console with innovative
+                display switches. With the AMG Performance steering wheel in
+                Nappa leather with AMG steering wheel buttons, the vehicle is
+                under optimal control. Extremely high-quality materials give the
+                interior a handcrafted character.
               </p>
 
               <div class="flex bg-red-600 ">

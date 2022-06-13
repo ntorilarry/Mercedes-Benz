@@ -3,6 +3,7 @@ import "./App.css";
 import Hero from "./components/hero";
 import Second from "./components/second";
 import Sporty from "./components/sporty";
+import Masterpiece from "./components/masterpiece";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Second />
       <Sporty/>
+      <Masterpiece/>
     </div>
   );
 }
