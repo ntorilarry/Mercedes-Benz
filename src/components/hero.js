@@ -6,8 +6,8 @@ import Amg from "../assets/amg.png";
 
 function Hero() {
   return (
-    <div className="w-full  " id="bgg">
-      <div className="w-full  bg-gradient-to-r from-[#2d2d2d]">
+    <div className="w-full h-[100vh]  top-[90px] " id="bgg">
+      <div className="w-full h-[100vh] bg-gradient-to-r from-[#2d2d2d]">
         <Navbarr />
 
         <div className="relative  overflow-hidden">
@@ -30,22 +30,14 @@ function Hero() {
                         leadership and high practicality.
                       </p>
                       <div className="mt-10 sm:mt-12 butt">
-                        <form
-                          action="#"
-                          className="sm:max-w-xl sm:mx-auto lg:mx-0 "
-                        >
-                          <div className="sm:flex items-center butt">
-                            <span class="inline-block h-1 w-20 rounded bg-red-600 "></span>
-                            <div className="mt-3 sm:mt-0 sm:ml-3">
-                              <button
-                                type="submit"
-                                className="block w-full  px-4  text-red-600 font-medium "
-                              >
-                                PRE 0RDER NOW
-                              </button>
-                            </div>
+                        <div className="sm:flex items-center butt">
+                          <span class="inline-block h-1 w-20 rounded bg-red-600 "></span>
+                          <div className="mt-3 sm:mt-0 sm:ml-3">
+                            <button className="block w-full  px-4  text-red-600 font-medium ">
+                              <a href="/#contact"> PRE 0RDER NOW</a>
+                            </button>
                           </div>
-                        </form>
+                        </div>
                       </div>
                     </div>
                   </div>

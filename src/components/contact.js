@@ -4,7 +4,7 @@ import Amg from "../assets/amg.png"
 
 function Contact() {
   return (
-    <div>
+    <div id="contact">
       <section class="text-gray-600 body-font bg-[#F5F5F5] cont ">
         <div class="container px-5 py-24 mx-auto flex flex-wrap items-center">
           <div class="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
