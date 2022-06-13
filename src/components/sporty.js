@@ -33,13 +33,16 @@ function Sporty() {
                 </button>
               </div>
             </div>
+
             <img
               alt="ecommerce"
               class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded"
               src={Steer}
             />
           </div>
+          <div className="w-full h-1/3 bg-black inline-block "></div>
         </div>
+       
       </section>
     </div>
   );
