@@ -1,0 +1,10 @@
+.second-subtext{
+    font-family: 'Open Sans', sans-serif;
+}
+.second-heading{
+    font-family: 'Playfair Display', serif;
+}
+
+@media (max-width: 1023px) {
+    
+}

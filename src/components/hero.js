@@ -6,11 +6,11 @@ import Amg from "../assets/amg.png";
 
 function Hero() {
   return (
-    <div className="w-full h-[100vh] top-[90px]" id="bgg">
+    <div className="w-full h-[100vh] top-[90px] " id="bgg">
       <div className="w-full h-[100%] bg-gradient-to-r from-[#2d2d2d]">
         <Navbarr />
 
-        <div className="relative overflow-hidden">
+        <div className="relative  overflow-hidden">
           <main>
             <div className="pt-10  sm:pt-16 lg:pt-8 lg:pb-14 lg:overflow-hidden">
               <div className="mx-auto max-w-7xl lg:px-8">
@@ -24,7 +24,7 @@ function Hero() {
                           True Power
                         </span>
                       </h1>
-                      <p className="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
+                      <p className="text-sm text-gray-300 sm:text-sm lg:text-sm xl:text-sm hero-subtext">
                         The Mercedes-AMG GT combines the fascination of an
                         authentic sports car with segment-specific technology
                         leadership and high practicality.
