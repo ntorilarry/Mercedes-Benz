@@ -6,7 +6,7 @@ import Amg from "../assets/amg.png";
 
 function Hero() {
   return (
-    <div className="w-full h-[100vh] " id="bgg">
+    <div className="w-full h-[100vh] top-[90px]" id="bgg">
       <div className="w-full h-[100%] bg-gradient-to-r from-[#2d2d2d]">
         <Navbarr />
 
@@ -17,7 +17,7 @@ function Hero() {
                 <div className="lg:grid lg:grid-cols-2 lg:gap-8">
                   <div className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:px-0 lg:text-left lg:flex lg:items-center">
                     <div className="lg:py-96">
-                      <img src={Amg} alt="" />
+                      <img className="Amg-logo" src={Amg} alt="" />
                       <h1 className="mt-4 text-4xl tracking-tight font-extrabold text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl ">
                         <span className="block hero-heading">Unleash the</span>
                         <span className="pb-3 block bg-clip-text text-white sm:pb-5 hero-heading">
@@ -29,12 +29,12 @@ function Hero() {
                         authentic sports car with segment-specific technology
                         leadership and high practicality.
                       </p>
-                      <div className="mt-10 sm:mt-12">
+                      <div className="mt-10 sm:mt-12 butt">
                         <form
                           action="#"
-                          className="sm:max-w-xl sm:mx-auto lg:mx-0"
+                          className="sm:max-w-xl sm:mx-auto lg:mx-0 "
                         >
-                          <div className="sm:flex items-center">
+                          <div className="sm:flex items-center butt">
                             <span class="inline-block h-1 w-20 rounded bg-red-600 "></span>
                             <div className="mt-3 sm:mt-0 sm:ml-3">
                               <button
