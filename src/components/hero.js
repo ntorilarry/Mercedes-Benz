@@ -6,8 +6,8 @@ import Amg from "../assets/amg.png";
 
 function Hero() {
   return (
-    <div className="w-full h-[100vh] top-[90px] " id="bgg">
-      <div className="w-full h-[100%] bg-gradient-to-r from-[#2d2d2d]">
+    <div className="w-full  " id="bgg">
+      <div className="w-full  bg-gradient-to-r from-[#2d2d2d]">
         <Navbarr />
 
         <div className="relative  overflow-hidden">
