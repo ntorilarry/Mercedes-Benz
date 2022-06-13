@@ -1,0 +1,11 @@
+#bgg {
+    background-image: url('../assets/carbg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-heading {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
