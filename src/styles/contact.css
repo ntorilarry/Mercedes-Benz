@@ -1,0 +1,19 @@
+.cont {
+    background-image: url('../assets/Mask.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-heading {
+    font-family: 'Playfair Display', serif;
+}
+
+.contact-subtext {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cont-head {
+    font-family: 'Open Sans', sans-serif;
+
+}
