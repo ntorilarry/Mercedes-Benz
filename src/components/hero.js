@@ -10,12 +10,12 @@ function Hero() {
       <div className="w-full h-[100vh] bg-gradient-to-r from-[#2d2d2d]">
         <Navbarr />
 
-        <div className="relative  overflow-hidden">
+        <div className="relative  overflow-hidden hero-benz">
           <main>
             <div className="pt-10  sm:pt-16 lg:pt-8 lg:pb-14 lg:overflow-hidden">
               <div className="mx-auto max-w-7xl lg:px-8">
                 <div className="lg:grid lg:grid-cols-2 lg:gap-8">
-                  <div className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:px-0 lg:text-left lg:flex lg:items-center">
+                  <div className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:px-0 lg:text-left lg:flex lg:items-center justify-center">
                     <div className="lg:py-96">
                       <img className="Amg-logo" src={Amg} alt="" />
                       <h1 className="mt-4 text-4xl tracking-tight font-extrabold text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl ">
@@ -34,7 +34,10 @@ function Hero() {
                           <span class="inline-block h-1 w-20 rounded bg-red-600 "></span>
                           <div className="mt-3 sm:mt-0 sm:ml-3">
                             <button className="block w-full  px-4  text-red-600 font-medium ">
-                              <a href="/#contact"> PRE 0RDER NOW</a>
+                              <a href="https://www.mercedes-benz.com/en/classic/museum/mercedes-amg-gt-concept/?urlReference=d433188a7318434a9b2205aeaa615e56">
+                                {" "}
+                                PRE 0RDER NOW
+                              </a>
                             </button>
                           </div>
                         </div>

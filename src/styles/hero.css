@@ -31,4 +31,10 @@
     .hero-subtext {
         text-align: center;
     }
+    .hero-benz{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%
+    }
 }

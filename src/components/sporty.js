@@ -29,7 +29,9 @@ function Sporty() {
 
               <div class="flex bg-red-600 ">
                 <button class="flex mr-auto text-black bg-white p-2 m-8 focus:outline-none rounded w-38 h-10 font-semibold">
-                  PRE-ORDER NOW
+                  <a href="https://www.mercedes-benz.com/en/classic/museum/mercedes-amg-gt-concept/?urlReference=d433188a7318434a9b2205aeaa615e56">
+                    PRE-ORDER NOW
+                  </a>
                 </button>
               </div>
             </div>
@@ -42,7 +44,6 @@ function Sporty() {
           </div>
           <div className="w-full h-1/3 bg-black inline-block "></div>
         </div>
-       
       </section>
     </div>
   );

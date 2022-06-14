@@ -32,7 +32,7 @@ function Navbarr() {
                 </div>
                 <div className="hidden md:flex md:items-center md:space-x-6">
                   <a
-                    href="#"
+                    href="https://www.mercedes-benz.com/en/classic/museum/mercedes-amg-gt-concept/?urlReference=d433188a7318434a9b2205aeaa615e56"
                     className="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-red-800"
                   >
                     PRE ORDER NOW
