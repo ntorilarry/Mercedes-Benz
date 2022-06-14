@@ -8,7 +8,11 @@ function Masterpiece() {
       <section class="text-gray-600 body-font overflow-hidden">
         <div class="container px-5 py-20 mx-auto">
           <div class="lg:w-4/5 mx-auto flex flex-wrap items-center">
-            <img
+            <img    data-aos="fade-up"
+              data-aos-duration="1000"
+              data-aos-easing="ease-in-out"
+              data-aos-delay="100"
+              data-aos-once="true"
               alt="ecommerce"
               class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded "
               src={Master}
