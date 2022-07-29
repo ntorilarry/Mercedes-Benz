@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div id="contact">
       <section class="text-gray-600 body-font bg-[#F5F5F5] cont ">
-        <div class="container px-5 py-24 mx-auto flex flex-wrap items-center">
+        <div class="container px-24 py-24 mx-auto flex flex-wrap items-center conto">
           <div class="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
             <img className="w-32" src={Amg} alt="" />
             <h1 class="title-font font-medium text-4xl text-gray-900 contact-heading">
@@ -25,7 +25,7 @@ function Contact() {
               </a>
             </button>
           </div>
-          <div class="lg:w-1/4 md:w-1/2 bg-black rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
+          <div class="lg:w-2/5 md:w-1/2 bg-black rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
             <h2 class="text-white text-sm font-bold title-font mb-5 cont-head">
               CALL US FOR QUESTIONS
             </h2>
